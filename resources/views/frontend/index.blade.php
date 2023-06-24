@@ -1,5 +1,6 @@
 
 @extends('frontend.layouts.main')
+<script src="https://kit.fontawesome.com/26ae5e4e2d.js" crossorigin="anonymous"></script>
  @section('content')
   <body>
     <section id="top-1" style="display: none">
@@ -54,17 +55,11 @@
             <div class="text-wrapper align-left md-pb">
               <div class="subtitle-align-wrap">
                 <div class="subtitle-wrap">
-                  <span
-                    class="mbr-iconfont mobi-mbri-contact-form mobi-mbri"
-                  ></span>
-                  <h2
-                    class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7"
-                  >
+                  <span  class="" ><i class="fa-solid fa-code"></i></span>
+                  <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7" >
                     AmethiTech
                   </h2>
-                  <span
-                    class="mbr-iconfont arrow mobi-mbri-right mobi-mbri"
-                  ></span>
+                  <span  class="mbr-iconfont fs-25 " ><i class="fa-sharp fa-solid fa-arrow-pointer"></i></span>
                 </div>
               </div>
 
@@ -72,8 +67,8 @@
                 <strong>Web Development </strong>
               </h1>
               <p class="mbr-text mbr-fonts-style display-7">
-                Lorem  adasd ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque hendrerit massa in facilisis malesuada.
+                 Amethitech is a dynamic web development company committed
+                 to delivering exceptional solutions for businesses.
               </p>
               <div class="mbr-section-btn mt-4">
                 <a
@@ -103,13 +98,13 @@
             <div class="card-wrapper">
               <div class="card-box align-center">
                 <div class="iconfont-wrapper">
-                  <span class="mbr-iconfont mobi-mbri-code mobi-mbri"></span>
+                  <span class="mbr-iconfont "><i class="fa-solid fa-code"></i></span>
                 </div>
                 <h5 class="card-title mbr-fonts-style pb-3 display-7">
                   <strong>Optimized code</strong>
                 </h5>
                 <p class="card-text mbr-fonts-style display-4">
-                  Lorem ipsum dolor sit amet, elit imperdiet commodo interdum.
+                  Optimized code: efficient algorithms, minimal redundancy, enhanced performance.
                 </p>
               </div>
             </div>
@@ -118,15 +113,13 @@
             <div class="card-wrapper">
               <div class="card-box align-center">
                 <div class="iconfont-wrapper">
-                  <span
-                    class="mbr-iconfont mobi-mbri-responsive-2 mobi-mbri"
-                  ></span>
+                  <span  class="mbr-iconfont"  ><i class="fa-sharp fa-solid fa-computer fa-fade"></i></span>
                 </div>
                 <h5 class="card-title mbr-fonts-style pb-3 display-7">
                   <strong>Best solutions</strong>
                 </h5>
                 <p class="card-text mbr-fonts-style display-4">
-                  Lorem ipsum dolor sit amet, elit imperdiet commodo interdum.
+                  Optimizing Code for Optimal Performance and Efficiency
                 </p>
               </div>
             </div>
@@ -135,13 +128,13 @@
             <div class="card-wrapper">
               <div class="card-box align-center">
                 <div class="iconfont-wrapper">
-                  <span class="mbr-iconfont mobi-mbri-clock mobi-mbri"></span>
+                  <span class="mbr-iconfont "><i class="fa-sharp fa-solid fa-hourglass-start"></i></span>
                 </div>
                 <h5 class="card-title mbr-fonts-style pb-3 display-7">
                   <strong>Time saving</strong>
                 </h5>
                 <p class="card-text mbr-fonts-style display-4">
-                  Lorem ipsum dolor sit amet, elit imperdiet commodo interdum.
+                  Time-saving through code optimization: maximizing efficiency and minimizing execution time.
                 </p>
               </div>
             </div>
@@ -160,25 +153,12 @@
           <div class="col-12 col-md-12 col-lg">
             <div class="text-wrapper align-left md-pb">
               <div class="icon-wrap d-flex mb-5">
-                <a href="https://mobirise.com/extensions/devm5/framework/#"
-                  ><span class="mbr-iconfont mobi-mbri-code mobi-mbri"></span
-                ></a>
-                <a href="https://mobirise.com/extensions/devm5/framework/#"
-                  ><span
-                    class="mbr-iconfont mobi-mbri-contact-form mobi-mbri"
-                  ></span
-                ></a>
-                <a href="https://mobirise.com/extensions/devm5/framework/#"
-                  ><span class="mbr-iconfont mobi-mbri-desktop mobi-mbri"></span
-                ></a>
-                <a href="https://mobirise.com/extensions/devm5/framework/#"
-                  ><span
-                    class="mbr-iconfont mobi-mbri-features mobi-mbri"
-                  ></span
-                ></a>
-                <a href="https://mobirise.com/extensions/devm5/framework/#"
-                  ><span class="mbr-iconfont mobi-mbri-cash mobi-mbri"></span
-                ></a>
+                   <div class="icon-wrap d-flex mb-5">
+                    <a href="" class='text-center text-dark'><span class="mbr-iconfont mx-1"><i class="fa-solid fa-code"></i></span> Code</a>
+                    <a href="" class='text-center text-dark'><span class="mbr-iconfont mx-4 "><i class="fa-sharp fa-light fa-message-code"></i></span> Contact</a>
+                    <a href="" class='text-center text-dark'><span class="mbr-iconfont mobi-mbri-desktop mobi-mbri mx-4"></span> Desktop</a>
+                    <a href="" class='text-center text-dark'><span class="mbr-iconfont mobi-mbri-features mobi-mbri mx-4"></span> Features</a>
+                      </div>
               </div>
 
               <div class="subtitle-wrap">
@@ -188,11 +168,11 @@
               </div>
 
               <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
-                <strong>Web Development Framework</strong>
+                <strong>Web Development </strong>
               </h1>
               <p class="mbr-text mbr-fonts-style mb-4 display-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                imperdiet commodo felis a interdum.
+                Building Powerful and User-Friendly Websites with
+                 Responsive Design, Interactive Features, and Seamless Functionality.
               </p>
 
               <div class="link-wrapper">
@@ -203,7 +183,7 @@
                   <p class="mbr-link mbr-fonts-style m-0 display-4">
                     <strong>
                       <a
-                        href="https://mobirise.com/extensions/devm5/framework/#"
+                        href=""
                         class="text-black"
                         >Read More Info</a
                       ></strong
@@ -218,7 +198,7 @@
                   <p class="mbr-link mbr-fonts-style m-0 display-4">
                     <strong>
                       <a
-                        href="https://mobirise.com/extensions/devm5/framework/#"
+                        href=""
                         class="text-black"
                         >Get Started</a
                       ></strong
@@ -334,7 +314,7 @@
               <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
                 <strong
                   >Why our&nbsp;<a
-                    href="https://mobirise.com/extensions/devm5/framework/#"
+                    href=""
                     class="text-secondary"
                     >Framework?</a
                   ></strong
@@ -487,7 +467,7 @@
               <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
                 <strong
                   >Save time with our&nbsp;<a
-                    href="https://mobirise.com/extensions/devm5/framework/#"
+                    href=""
                     class="text-secondary"
                     >Framework?</a
                   ></strong
@@ -802,7 +782,7 @@
               <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
                 <strong
                   ><a
-                    href="https://mobirise.com/extensions/devm5/framework/#"
+                    href=""
                     class="text-success"
                     >Joseph Rankin</a
                   >
