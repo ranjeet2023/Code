@@ -26,5 +26,47 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap" /></noscript>
     <link rel="preload"  as="style"  href="{{ asset('assets/css/mbr-additional.css') }}" />
-    <link rel="stylesheet"  href="{{ asset('assets/css/mbr-additional.css') }}" />  
+    <link rel="stylesheet"  href="{{ asset('assets/css/mbr-additional.css') }}" />
   </head>
+  <body>
+    <section id="top-1" style="display: none">
+      <a href="/a3">Best Website Design Ideas</a> Mobirise
+      v5.6.4 <a href="/a6">Web Page Development Software</a>
+    </section>
+
+  <section data-bs-version="5.1" class="menu menu1 cid-tlVfrwbwzd" once="menu" id="menu01-0">
+      <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg navbar-short">
+        <div class="container">
+          <div class="navbar-brand">
+            <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="/">AmethiTech</a></span>
+          </div>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+              <li class="nav-item">
+                <a class="nav-link link text-secondary display-4" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link link text-secondary display-4" href="#features04-2">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link link  k text-secondary show display-4" href="#features05-3" aria-expanded="true">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link link text-secondary display-4" href="/">Contacts</a>
+              </li>
+            </ul>
+            <div class="navbar-buttons mbr-section-btn">
+              <a class="btn btn-secondary-outline display-4" href="/">Join Now</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </section>
