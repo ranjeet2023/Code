@@ -27,6 +27,10 @@ use App\Http\Controllers\FrontEndController;
 // ====================start for fronend===============
 Route::get('/', [FrontEndController::class,'index']);
 
+Route::get('newwebsite', [FrontEndController::class,'website_creation']);
+
+// Route::view('newwebsite','new_website_creation');
+
 
 
 

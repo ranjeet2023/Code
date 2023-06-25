@@ -9,4 +9,8 @@ class FrontEndController extends Controller
     public function index(){
         return view('frontend.index');
     }
+
+    public function website_creation(){
+        return view('frontend.our_services.new_website_creation');
+    }
 }
