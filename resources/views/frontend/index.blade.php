@@ -161,7 +161,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                                <span class="mbr-iconfont "><i class="fa-solid fa-globe fa-flip"></i></span>
+                                <span class="mbr-iconfont "><i class="fa-solid fa-globe fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
