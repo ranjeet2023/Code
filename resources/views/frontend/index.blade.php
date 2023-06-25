@@ -1,4 +1,7 @@
 @extends('frontend.layouts.main')
+{{-- @push('title')
+    Website Maintenance and Support
+@endpush --}}
 <script src="https://kit.fontawesome.com/26ae5e4e2d.js" crossorigin="anonymous"></script>
 @section('content')
     <section data-bs-version="5.1" class="header4 cid-tlVfs8bofq" id="header04-1">
@@ -6,7 +9,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-md-12 col-lg">
                     <div class="text-wrapper align-left md-pb">
-                        <div class="subtitle-align-wrap">
+                        <div class="subtitle-align-wrap contact-us" >
                             <a href="#features06-b">
                                 <div class="subtitle-wrap">
                                     <span class=""><i class="fa-solid fa-code"></i></span>
@@ -205,7 +208,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                            <span class="mbr-iconfont"><i class="fa-solid fa-school-circle-check"></i></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-school-circle-check fa-fade""></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -218,7 +221,7 @@
                                 and facilitate communication between students, parents, and staff.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="/">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('school') }}">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -238,7 +241,7 @@
                                 websites remain secure, up-to-date, and running smoothly.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="/">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('web-maintaine') }}">Get Started</a>
                             </div>
                         </div>
                     </div>

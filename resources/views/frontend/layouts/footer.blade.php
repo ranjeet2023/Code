@@ -61,31 +61,22 @@
             <strong>Contact</strong>
         </h5>
         <div class="contact-info">
-            <div class="contact-item d-flex align-items-center">
-                <div class="contact-icon bg-primary">
-                    <i class="fa fa-envelope-open text-white"></i>
-                </div>
+            <div class="contact-item d-flex align-items-center" >
+                    <i class="fa-regular fa-envelope fa-fade text-white"></i></i>
                 <div class="contact-details ms-3">
-                    <h5 class="text-primary">Email</h5>
-                    <p class="mb-0">vikramsingh77558@gmail.com</p>
+                    <p class="mb-0">vikramsing8@gmail.com</p>
                 </div>
             </div>
-            <div class="contact-item d-flex align-items-center">
-                <div class="contact-icon bg-primary">
-                    <i class="fa fa-phone-alt text-white"></i>
-                </div>
+            <div class="contact-item d-flex align-items-center mt-2" >
+                    <i class="fa-solid fa-phone-volume fa-fade"></i>
                 <div class="contact-details ms-3">
-                    <h5 class="text-primary">Mobile</h5>
                     <p class="mb-0">+91-7755897867</p>
                     <p class="mb-0">+91-7217645059</p>
                 </div>
             </div>
-            <div class="contact-item d-flex align-items-center">
-                <div class="contact-icon bg-primary">
-                    <i class="fa fa-map-marker-alt text-white"></i>
-                </div>
+            <div class="contact-item d-flex align-items-center mt-2" >
+                    <i class="fa-regular fa-building fa-fade"></i>
                 <div class="contact-details ms-3">
-                    <h5 class="text-primary">Office</h5>
                     <p class="mb-0">Amethi, UP, India</p>
                 </div>
             </div>

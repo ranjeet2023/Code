@@ -35,6 +35,7 @@ Route::get('laravel', [FrontEndController::class,'laravel']);
 Route::get('new-website', [FrontEndController::class,'NewWebsite']);
 Route::get('e-commerce', [FrontEndController::class,'Ecommerce']);
 Route::get('school', [FrontEndController::class,'School']);
+Route::get('web-maintaine', [FrontEndController::class,'WebMaintaine']);
 
 
 

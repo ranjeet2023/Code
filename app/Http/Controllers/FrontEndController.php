@@ -47,4 +47,7 @@ class FrontEndController extends Controller
     public function School(){
         return view('frontend.ourServices.school');
     }
+    public function WebMaintaine(){
+        return view('frontend.ourServices.webmaintain');
+    }
 }
