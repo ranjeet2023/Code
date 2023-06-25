@@ -8,15 +8,15 @@
                 <div class="col-12 col-md-12 col-lg">
                     <div class="text-wrapper align-left md-pb">
                         <div class="subtitle-align-wrap">
-                         <a href="#features06-b">
-                            <div class="subtitle-wrap">
-                                <span class=""><i class="fa-solid fa-code"></i></span>
-                                <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7">
-                                    Contact Us
-                                </h2>
-                                <span class="mbr-iconfont fs-25 "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
-                            </div>
-                             </a>
+                            <a href="#features06-b">
+                                <div class="subtitle-wrap">
+                                    <span class=""><i class="fa-solid fa-code"></i></span>
+                                    <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7">
+                                        Contact Us
+                                    </h2>
+                                    <span class="mbr-iconfont fs-25 "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                </div>
+                            </a>
                         </div>
 
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-1">
@@ -99,10 +99,15 @@
                     <div class="text-wrapper align-left md-pb">
                         <div class="icon-wrap d-flex mb-5">
                             <div class="icon-wrap d-flex mb-5">
-                                <a href="#list01-a" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i class="fa-solid fa-code fa-fade"></i></span> Course</a>
-                                <a href="#features06-b" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
-                                <a href="#features05-3" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i class="fa-solid fa-laptop-code fa-fade"></i></span> Services</a>
-                                <a href="{{ url('') }}" class='text-center text-dark' disabled><span class="mbr-iconfont  mx-3"><i class="fa-solid fa-address-card fa-fade"></i></span>Blog</a>
+                                <a href="#list01-a" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
+                                            class="fa-solid fa-code fa-fade"></i></span> Course</a>
+                                <a href="#features06-b" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
+                                            class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
+                                <a href="#features05-3" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i
+                                            class="fa-solid fa-laptop-code fa-fade"></i></span> Services</a>
+                                <a href="{{ url('') }}" class='text-center text-dark' disabled><span
+                                        class="mbr-iconfont  mx-3"><i
+                                            class="fa-solid fa-address-card fa-fade"></i></span>Blog</a>
 
                             </div>
                         </div>
@@ -428,66 +433,86 @@
             <div class="row">
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
-                        <div class="text-wrap align-left">
-                            <h5 class="card-title mbr-fonts-style m-0 display-7">
-                                <strong>Frontend Developer</strong>
-                            </h5>
-                            <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                        <a href="{{ url('frontend') }}" style="color:black" onmouseover="this.style.color='white';"
+                            onmouseout="this.style.color='black';">
+                            <div class="text-wrap align-left">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                    <strong>Frontend Developer</strong>
+                                </h5>
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
 
-                                A front-end developer is responsible for designing and developing the user interface and
-                                user experience of a website or web application. </p>
-                        </div>
+                                    A front-end developer is responsible for designing and developing the user interface and
+                                    user experience of a website or web application. </p>
+                            </div>
+                        </a>
                         <div class="iconfont-wrapper align-right">
-                            <a href="{{url('frontend')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="card col-12 col-md-12 col-lg-12">
-                    <div class="card-wrapper">
-                        <div class="text-wrap align-left">
-                            <h5 class="card-title mbr-fonts-style m-0 display-7">
-                                <strong>Backend Developer</strong>
-                            </h5>
-                            <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
-                                A back-end developer focuses on building and maintaining the server-side logic and
-                                infrastructure that powers the functionality of a website or web application.
-                            </p>
-                        </div>
-                        <div class="iconfont-wrapper align-right">
-                            <a href="{{url('backend')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
-                        <div class="text-wrap align-left">
-                            <h5 class="card-title mbr-fonts-style m-0 display-7">
-                                <strong>Fullstack Web Developer</strong>
-                            </h5>
-                            <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
-                                A full-stack developer is proficient in both front-end and back-end development, capable of
-                                handling all aspects of building a complete website or web application.
-                            </p>
-                        </div>
+                        <a href="{{ url('backend') }}" style="color:black" onmouseover="this.style.color='white';"
+                            onmouseout="this.style.color='black';">
+                            <div class="text-wrap align-left">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                    <strong>Backend Developer</strong>
+                                </h5>
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+
+                                    A back-end developer focuses on building and maintaining the server-side logic and
+                                    infrastructure that powers the functionality of a website or web application.
+                                </p>
+                            </div>
+                        </a>
                         <div class="iconfont-wrapper align-right">
-                            <a href="{{url('fullstack')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
+
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
-                        <div class="text-wrap align-left">
-                            <h5 class="card-title mbr-fonts-style m-0 display-7">
-                                <strong>Laravel Developer</strong>
-                            </h5>
-                            <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
-                                A Laravel developer specializes in using the Laravel framework to build robust and scalable
-                                web applications with PHP.
-                            </p>
-                        </div>
+                        <a href="{{ url('fullstack') }}" style="color:black" onmouseover="this.style.color='white';"
+                            onmouseout="this.style.color='black';">
+                            <div class="text-wrap align-left">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                    <strong>Fullstack Web Developer</strong>
+                                </h5>
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+
+                                    A full-stack developer is proficient in both front-end and back-end development, capable
+                                    of
+                                    handling all aspects of building a complete website or web application.
+                                </p>
+                            </div>
+                        </a>
                         <div class="iconfont-wrapper align-right">
-                            <a href="{{url('laravel')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card col-12 col-md-12 col-lg-12">
+                    <div class="card-wrapper">
+                        <a href="{{ url('laravel') }}" style="color:black" onmouseover="this.style.color='white';"
+                            onmouseout="this.style.color='black';">
+
+                            <div class="text-wrap align-left">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                    <strong>Laravel Developer</strong>
+                                </h5>
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                                    A Laravel developer specializes in using the Laravel framework to build robust and
+                                    scalable
+                                    web applications with PHP.
+                                </p>
+                            </div>
+                        </a>
+                        <div class="iconfont-wrapper align-right">
+                            <a href="{{ url('laravel') }}"><span class="mbr-iconfont"><i
+                                        class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -525,7 +550,8 @@
         </div>
     </section> --}}
 
-    <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9" style='background-color:#c6ffe0 !important'>
+    <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9"
+        style='background-color:#c6ffe0 !important'>
         <div class="container">
             <div class="row wrap justify-content-center">
                 <div class="col-lg-3 col-sm-6">
@@ -580,7 +606,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+                    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
                         <div class="image">
                             <img src="{{ asset('assets/image/bootstrap.png') }}" alt="" title="" />
                             <div class="text__block text-white">
@@ -589,7 +615,8 @@
                                 </p>
                                 <div class="icons">
                                     <div class="border__radius">
-                                        <span class="mbr-iconfont  "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                        <span class="mbr-iconfont  "><i
+                                                class="fa-solid fa-arrow-right fa-fade"></i></span>
                                     </div>
                                 </div>
                             </div>
@@ -597,38 +624,38 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                  <a href="https://www.php.net/">
-                    <div class="image">
-                        <img src="{{ asset('assets/image/php.png') }}" alt="" title="" />
-                        <div class="text__block text-white">
-                            <p class="text__title  mbr-bold mbr-fonts-style display-7">
-                                PHP
-                            </p>
-                            <div class="icons">
-                                <div class="border__radius">
-                                    <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                    <a href="https://www.php.net/">
+                        <div class="image">
+                            <img src="{{ asset('assets/image/php.png') }}" alt="" title="" />
+                            <div class="text__block text-white">
+                                <p class="text__title  mbr-bold mbr-fonts-style display-7">
+                                    PHP
+                                </p>
+                                <div class="icons">
+                                    <div class="border__radius">
+                                        <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                   </a>
+                    </a>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                   <a href="https://laravel.com/">
-                    <div class="image">
-                        <img src="{{ asset('assets/image/laravel.png') }}" alt="" title="" />
-                        <div class="text__block text-white">
-                            <p class="text__title mbr-bold mbr-fonts-style  display-7">
-                               LARAVEL
-                            </p>
-                            <div class="icons">
-                                <div class="border__radius">
-                                    <span class="mbr-iconfont "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                    <a href="https://laravel.com/">
+                        <div class="image">
+                            <img src="{{ asset('assets/image/laravel.png') }}" alt="" title="" />
+                            <div class="text__block text-white">
+                                <p class="text__title mbr-bold mbr-fonts-style  display-7">
+                                    LARAVEL
+                                </p>
+                                <div class="icons">
+                                    <div class="border__radius">
+                                        <span class="mbr-iconfont "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                 </a>
+                    </a>
                 </div>
             </div>
         </div>
