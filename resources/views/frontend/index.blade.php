@@ -25,7 +25,7 @@
                             to delivering exceptional solutions for businesses.
                         </p>
                         <div class="mbr-section-btn mt-4">
-                            <a class="btn btn-secondary-outline display-4" href="/">Get Started</a>
+                            <a class="btn btn-secondary-outline display-4" href="/">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -97,14 +97,11 @@
                     <div class="text-wrapper align-left md-pb">
                         <div class="icon-wrap d-flex mb-5">
                             <div class="icon-wrap d-flex mb-5">
-                                <a href="" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
-                                            class="fa-solid fa-code fa-fade"></i></span> Course</a>
-                                <a href="" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
-                                            class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
-                                <a href="" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i
-                                            class="fa-solid fa-address-card fa-fade"></i></span>About</a>
-                                <a href="" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i
-                                            class="fa-solid fa-laptop-code fa-fade"></i></span> Features</a>
+                                <a href="#list01-a" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i class="fa-solid fa-code fa-fade"></i></span> Course</a>
+                                <a href="#features06-b" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
+                                <a href="#features05-3" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i class="fa-solid fa-laptop-code fa-fade"></i></span> Services</a>
+                                <a href="{{ url('') }}" class='text-center text-dark' disabled><span class="mbr-iconfont  mx-3"><i class="fa-solid fa-address-card fa-fade"></i></span>Blog</a>
+
                             </div>
                         </div>
 
@@ -161,7 +158,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                                <span class="mbr-iconfont "><i class="fa-solid fa-globe fa-fade"></i></span>
+                            <span class="mbr-iconfont "><i class="fa-solid fa-globe fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -223,7 +220,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                         <span class="mbr-iconfont"><i class="fa-solid fa-sliders fa-fade"></i></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-sliders fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -421,8 +418,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 pb-5">
-                    <h3 class="mbr-section-title mbr-fonts-style align-left mb-0 display-5">
-                        <strong>Our Courses</strong>
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                        <strong>Our Course</strong>
                     </h3>
                 </div>
             </div>
@@ -439,7 +436,7 @@
                                 user experience of a website or web application. </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                            <a href="{{url('frontend')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -455,7 +452,7 @@
                             </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                            <a href="{{url('backend')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -467,11 +464,12 @@
                                 <strong>Fullstack Web Developer</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
-                                A full-stack developer is proficient in both front-end and back-end development, capable of handling all aspects of building a complete website or web application.
+                                A full-stack developer is proficient in both front-end and back-end development, capable of
+                                handling all aspects of building a complete website or web application.
                             </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                            <a href="{{url('fullstack')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -482,11 +480,12 @@
                                 <strong>Laravel Developer</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
-                                A Laravel developer specializes in using the Laravel framework to build robust and scalable web applications with PHP.
+                                A Laravel developer specializes in using the Laravel framework to build robust and scalable
+                                web applications with PHP.
                             </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                            <a href="{{url('laravel')}}"><span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span></a>
                         </div>
                     </div>
                 </div>
@@ -528,15 +527,16 @@
                     <div class="text-wrapper align-left md-pb">
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
                             <strong><a href="" class="text-success">AmethiTech.</a>
-                                </strong>
+                            </strong>
                         </h1>
                         <p class="mbr-text mbr-fonts-style display-7">
                             "Innovation is our code, and technology is our language. Together,
-                             we build the future, one line at a time"
-                             <br>
-                             "Building bridges between humans and technology, simplifying complexity for a connected world."
-                             <br>
-                             "Innovation is our code, and technology is our language. Together, we build the future, one line at a time."
+                            we build the future, one line at a time"
+                            <br>
+                            "Building bridges between humans and technology, simplifying complexity for a connected world."
+                            <br>
+                            "Innovation is our code, and technology is our language. Together, we build the future, one line
+                            at a time."
                         </p>
                         <div class="img-wrap">
                             <img src="{{ asset('assets/image/4.png') }}" alt="Mobirise Website Builder" />
@@ -546,8 +546,9 @@
             </div>
         </div>
     </section>
-     <!-- Contact Start -->
-    <section data-bs-version="5.1" class="features6 cid-tlVYUtaSS3 " id="features06-b" style='background-color:#c6ffe0 !important'>
+    <!-- Contact Start -->
+    <section data-bs-version="5.1" class="features6 cid-tlVYUtaSS3 " id="features06-b"
+        style='background-color:#c6ffe0 !important'>
         <div class="container">
             <div class="row"></div>
             <div class="row">
@@ -555,42 +556,42 @@
                     <div class="row row-h">
                         <div class="card col-12 col-md-12 col-lg-12">
                             <div class="card-big">
-                               <form>
-                            <div class="row g-3">
-                                <div class="col-md-6">
-                                    <div class="form-floating">
-                                        <input type="text" class="form-control" id="name" name="name"
-                                            placeholder="Your Name">
-                                        <label for="name">Your Name</label>
+                                <form>
+                                    <div class="row g-3">
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <input type="text" class="form-control" id="name" name="name"
+                                                    placeholder="Your Name">
+                                                <label for="name">Your Name</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-floating">
+                                                <input type="email" class="form-control" id="email" name="email"
+                                                    placeholder="Your Email">
+                                                <label for="email">Your Email</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form-floating">
+                                                <input type="text" class="form-control" id="subject" name="subject"
+                                                    placeholder="Subject">
+                                                <label for="subject">Subject</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form-floating">
+                                                <textarea class="form-control" placeholder="Leave a message here" id="message" name="message"
+                                                    style="height: 150px"></textarea>
+                                                <label for="message">Message</label>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <button class="btn btn-primary w-100 py-3" name="submit" type="submit">Send
+                                                Message</button>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-floating">
-                                        <input type="email" class="form-control" id="email" name="email"
-                                            placeholder="Your Email">
-                                        <label for="email">Your Email</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-floating">
-                                        <input type="text" class="form-control" id="subject" name="subject"
-                                            placeholder="Subject">
-                                        <label for="subject">Subject</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-floating">
-                                        <textarea class="form-control" placeholder="Leave a message here" id="message" name="message"
-                                            style="height: 150px"></textarea>
-                                        <label for="message">Message</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <button class="btn btn-primary w-100 py-3" name="submit" type="submit">Send
-                                        Message</button>
-                                </div>
-                            </div>
-                        </form>
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -602,7 +603,8 @@
                                 <div class="card-box align-left">
                                     <h5>Get In Touch</h5>
                                     <div class="d-flex align-items-right ml-5">
-                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
+                                            style="width: 50px; height: 50px;">
                                             <i class="fa fa-map-marker-alt text-white"></i>
                                         </div>
                                         <div class="ms-3">
@@ -611,7 +613,8 @@
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center mb-3">
-                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
+                                            style="width: 50px; height: 50px;">
                                             <i class="fa fa-phone-alt text-white"></i>
                                         </div>
                                         <div class="ms-3">
@@ -621,7 +624,8 @@
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
-                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
+                                            style="width: 50px; height: 50px;">
                                             <i class="fa fa-envelope-open text-white"></i>
                                         </div>
                                         <div class="ms-3">
@@ -634,10 +638,12 @@
                         </div>
                         <div class="card col-12 col-md-12 col-lg-12">
                             <div class="card-wrapper">
-                                  <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                                     <iframe class="position-relative rounded w-100 h-100"
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.7726238008718!2d81.8202397!3d26.1715336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399af5aaec6cda0d%3A0xde1e38171848ea67!2sSHUBH%20IT%20SOLUTION!5e0!3m2!1sen!2sin!4v1686972616065!5m2!1sen!2sin" width="100%"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                  </div>
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.7726238008718!2d81.8202397!3d26.1715336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399af5aaec6cda0d%3A0xde1e38171848ea67!2sSHUBH%20IT%20SOLUTION!5e0!3m2!1sen!2sin!4v1686972616065!5m2!1sen!2sin"
+                                        width="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -16,6 +16,25 @@ class FrontEndController extends Controller
     public function join_now()
     {
         return view('frontend.joinnow');
+    }
 
+    public function frontend()
+    {
+        return view('frontend.ourCourses.frontend');
+    }
+
+    public function backend()
+    {
+        return view('frontend.ourCourses.backend');
+    }
+
+    public function fullstack()
+    {
+        return view('frontend.ourCourses.fullstack');
+    }
+
+    public function laravel()
+    {
+        return view('frontend.ourCourses.laravel');
     }
 }

@@ -28,6 +28,10 @@ use App\Http\Controllers\FrontEndController;
 Route::get('/', [FrontEndController::class,'index']);
 Route::get('newwebsite', [FrontEndController::class,'website_creation']);
 Route::get('join-now', [FrontEndController::class,'join_now']);
+Route::get('frontend', [FrontEndController::class,'frontend']);
+Route::get('backend', [FrontEndController::class,'backend']);
+Route::get('fullstack', [FrontEndController::class,'fullstack']);
+Route::get('laravel', [FrontEndController::class,'laravel']);
 
 
 
