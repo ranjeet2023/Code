@@ -60,7 +60,7 @@
             <a class="nav-link link  k text-secondary show display-4" href="#features05-3" aria-expanded="true" style="padding: 0px !important;margin-left: 0px !important;">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="/" style="padding: 0px !important;margin-left: 0px !important;">Contacts</a>
+            <a class="nav-link link text-secondary display-4" href="#features06-b" style="padding: 0px !important;margin-left: 0px !important;">Contacts</a>
           </li>
         </ul>
         <div class="navbar-buttons mbr-section-btn">

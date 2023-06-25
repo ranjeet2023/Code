@@ -439,7 +439,7 @@
                                 user experience of a website or web application. </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont mobi-mbri-right mobi-mbri"></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                         </div>
                     </div>
                 </div>
@@ -455,7 +455,7 @@
                             </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont mobi-mbri-right mobi-mbri"></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                         </div>
                     </div>
                 </div>
@@ -471,7 +471,7 @@
                             </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont mobi-mbri-right mobi-mbri"></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                         </div>
                     </div>
                 </div>
@@ -486,7 +486,7 @@
                             </p>
                         </div>
                         <div class="iconfont-wrapper align-right">
-                            <span class="mbr-iconfont mobi-mbri-right mobi-mbri"></span>
+                            <span class="mbr-iconfont "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                         </div>
                     </div>
                 </div>
@@ -527,15 +527,16 @@
                 <div class="col-12 card col-md-12 col-lg-10">
                     <div class="text-wrapper align-left md-pb">
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
-                            <strong><a href="" class="text-success">Joseph Rankin</a>
-                                Developer</strong>
+                            <strong><a href="" class="text-success">AmethiTech.</a>
+                                </strong>
                         </h1>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et
-                            tellus at nisi fringilla gravida consequat sed lectus. Nullam
-                            placerat, orci sit amet bibendum auctor, ipsum lectus fringilla
-                            tellus, in faucibus lacus nulla et nunc. Mauris mi libero,
-                            laoreet vel rhoncus luctus, scelerisque eu lacus."
+                            "Innovation is our code, and technology is our language. Together,
+                             we build the future, one line at a time"
+                             <br>
+                             "Building bridges between humans and technology, simplifying complexity for a connected world."
+                             <br>
+                             "Innovation is our code, and technology is our language. Together, we build the future, one line at a time."
                         </p>
                         <div class="img-wrap">
                             <img src="{{ asset('assets/image/4.png') }}" alt="Mobirise Website Builder" />
