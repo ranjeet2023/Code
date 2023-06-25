@@ -51,20 +51,20 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="#header04-1" style="padding: 0px !important;margin-left: 0px !important;">Home</a>
+            <a class="nav-link link text-secondary display-4" href="{{ url('/#header04-1') }}" style="padding: 0px !important;margin-left: 0px !important;">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="#features04-2" style="padding: 0px !important;margin-left: 0px !important;">About</a>
+            <a class="nav-link link text-secondary display-4" href="{{ url('/#features04-2') }}" style="padding: 0px !important;margin-left: 0px !important;">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link  k text-secondary show display-4" href="#features05-3" aria-expanded="true" style="padding: 0px !important;margin-left: 0px !important;">Services</a>
+            <a class="nav-link link  k text-secondary show display-4" href="{{ url('/#features05-3') }}" aria-expanded="true" style="padding: 0px !important;margin-left: 0px !important;">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="#features06-b" style="padding: 0px !important;margin-left: 0px !important;">Contacts</a>
+            <a class="nav-link link text-secondary display-4" href="{{ url('/#features06-b')}}" style="padding: 0px !important;margin-left: 0px !important;">Contacts</a>
           </li>
         </ul>
         <div class="navbar-buttons mbr-section-btn">
-          <a class="btn btn-secondary-outline display-4" href="/">Join Now</a>
+          <a class="btn btn-secondary-outline display-4" href="{{ url('join-now') }}">Join Now</a>
         </div>
       </div>
     </div>

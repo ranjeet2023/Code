@@ -8,13 +8,15 @@
                 <div class="col-12 col-md-12 col-lg">
                     <div class="text-wrapper align-left md-pb">
                         <div class="subtitle-align-wrap">
+                         <a href="#features06-b">
                             <div class="subtitle-wrap">
                                 <span class=""><i class="fa-solid fa-code"></i></span>
                                 <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7">
-                                    AmethiTech
+                                    Contact Us
                                 </h2>
                                 <span class="mbr-iconfont fs-25 "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                             </div>
+                             </a>
                         </div>
 
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-1">
@@ -271,7 +273,7 @@
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="article4 cid-tlW17qyRWG" id="article04-f">
+    {{-- <section data-bs-version="5.1" class="article4 cid-tlW17qyRWG" id="article04-f">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-12 col-lg-10">
@@ -287,7 +289,7 @@
             </div>
         </div>
     </section>
-
+     our team 3 card
     <section data-bs-version="5.1" class="features2 cid-tlVYwNE43i" id="features02-4">
         <div class="container">
             <div class="row justify-content-center">
@@ -330,7 +332,7 @@
             </div>
         </div>
     </section>
-
+      our team comment
     <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9">
         <div class="container">
             <div class="row">
@@ -415,7 +417,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <section data-bs-version="5.1" class="list1 cid-tlVYPsHV3r" id="list01-a">
         <div class="container">
@@ -494,18 +496,22 @@
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="people1 cid-tlVYAOi4lu" id="people01-7">
+    {{-- <section data-bs-version="5.1" class="people1 cid-tlVYAOi4lu" id="people01-7">
         <div class="images-container container">
             <div class="mbr-section-head"></div>
             <div class="row justify-content-center mt-4">
                 <div class="col-md-3 card">
-                    <img src="{{ asset('assets/image/php developer.jpg') }}" alt="Mobirise Website Builder" />
+                    <i class="fa-brands      fa-html5 fa-fade " style="font-size:18vh;"></i><br>
+                    <h5>HTML</h5>
                 </div>
                 <div class="col-md-3 card">
+                    <i class="fa-brands fa-css3-alt" style="font-size:18vh;"></i>
+                    <h5>CSS</h5>
+
                     <img src="{{ asset('assets/image/front-end1.png') }}" alt="Mobirise Website Builder" />
                 </div>
                 <div class="col-md-3 card">
-                    <img src="{{ asset('assets/image/full stack.png') }}" alt="Mobirise Website Builder" />
+                    <i class="fa-brands fa-css3-alt" style="font-size:18vh;"></i>
                 </div>
                 <div class="col-md-3 card">
                     <img src="{{ asset('assets/image/back-end1.png') }}" alt="Mobirise Website Builder" />
@@ -515,6 +521,115 @@
                 </div>
                 <div class="col-md-3 card">
                     <img src="{{ asset('assets/image/web-design.jpg') }}" alt="Mobirise Website Builder" />
+                </div>
+            </div>
+        </div>
+    </section> --}}
+
+    <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9" style='background-color:#c6ffe0 !important'>
+        <div class="container">
+            <div class="row wrap justify-content-center">
+                <div class="col-lg-3 col-sm-6">
+                    <a href="https://html.com/">
+                        <div class="image">
+                            <img src="{{ asset('assets/image/html.png') }}" alt="" title="" />
+                            <div class="text__block text-white">
+                                <p class="text__title mbr-bold mbr-fonts-style display-7">
+                                    HTML
+                                </p>
+                                <div class="icons">
+                                    <div class="border__radius">
+                                        <span class="mbr-iconfont "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <a href="https://css3.com/">
+                        <div class="image">
+                            <img src="{{ asset('assets/image/css.png') }}" alt="" title="" />
+                            <div class="text__block text-white">
+                                <p class="text__title mbr-bold mbr-fonts-style display-7">
+                                    CSS
+                                </p>
+                                <div class="icons">
+                                    <div class="border__radius">
+                                        <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <a href="https://www.javascript.com/">
+                        <div class="image">
+                            <img src="{{ asset('assets/image/javascript.png') }}" alt="" title="" />
+                            <div class="text__block text-white">
+                                <p class="text__title mbr-bold mbr-fonts-style display-7">
+                                    JAVASCRIPT
+                                </p>
+                                <div class="icons">
+                                    <div class="border__radius">
+                                        <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">
+                        <div class="image">
+                            <img src="{{ asset('assets/image/bootstrap.png') }}" alt="" title="" />
+                            <div class="text__block text-white">
+                                <p class="text__title mbr-bold  mbr-fonts-style display-7">
+                                    BOOTSTRAP
+                                </p>
+                                <div class="icons">
+                                    <div class="border__radius">
+                                        <span class="mbr-iconfont  "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                  <a href="https://www.php.net/">
+                    <div class="image">
+                        <img src="{{ asset('assets/image/php.png') }}" alt="" title="" />
+                        <div class="text__block text-white">
+                            <p class="text__title  mbr-bold mbr-fonts-style display-7">
+                                PHP
+                            </p>
+                            <div class="icons">
+                                <div class="border__radius">
+                                    <span class="mbr-iconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   </a>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                   <a href="https://laravel.com/">
+                    <div class="image">
+                        <img src="{{ asset('assets/image/laravel.png') }}" alt="" title="" />
+                        <div class="text__block text-white">
+                            <p class="text__title mbr-bold mbr-fonts-style  display-7">
+                               LARAVEL
+                            </p>
+                            <div class="icons">
+                                <div class="border__radius">
+                                    <span class="mbr-iconfont "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                 </a>
                 </div>
             </div>
         </div>
@@ -616,8 +731,8 @@
                                         </div>
                                         <div class="ms-3">
                                             <h5 class="text-primary">Mobile</h5>
-                                            <p class="mb-0">+917755897867</p>
-                                            <p class="mb-0">+917217645059</p>
+                                            <p class="mb-0">+91-7755897867</p>
+                                            <p class="mb-0">+91-7217645059</p>
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
