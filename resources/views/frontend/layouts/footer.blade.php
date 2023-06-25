@@ -72,7 +72,7 @@
 
             <div class="col-12 mt-4">
                 <p class="mbr-text mb-0 mbr-fonts-style copyright align-center display-4">
-                    © Copyright 2030 Mobirise - All Rights Reserved
+                    © Copyright {{ date('Y') }} AmethiTech- All Rights Reserved
                 </p>
             </div>
         </div>
