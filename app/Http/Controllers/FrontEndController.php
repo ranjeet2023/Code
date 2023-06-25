@@ -37,4 +37,14 @@ class FrontEndController extends Controller
     {
         return view('frontend.ourCourses.laravel');
     }
+
+    public function NewWebsite(){
+        return view('frontend.ourServices.newWebsite');
+    }
+    public function Ecommerce(){
+        return view('frontend.ourServices.e-commerse');
+    }
+    public function School(){
+        return view('frontend.ourServices.school');
+    }
 }
