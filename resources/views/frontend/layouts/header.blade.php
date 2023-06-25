@@ -39,7 +39,7 @@
     <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg navbar-short">
         <div class="container">
         <div class="navbar-brand">
-            <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="/">AmethiTech</a></span>
+            <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="/"><img src="{{ asset('assets/image/logo.png') }}"" style="width:100px"></a></span>
         </div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <div class="hamburger">

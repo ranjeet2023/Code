@@ -101,8 +101,8 @@
                     <div class="text-wrapper align-left md-pb">
                         <div class="icon-wrap d-flex mb-5">
                             <div class="icon-wrap d-flex mb-5">
-                                <a href="#list01-a" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
-                                            class="fa-solid fa-code fa-fade"></i></span> Course</a>
+                                <a href="#list01-a" class='text-center text-dark '><span class="mbr-iconfont mx-4 ml-3"><i
+                                            class="fa-solid fa-code fa-fade "></i></span> Course</a>
                                 <a href="#features06-b" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
                                             class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
                                 <a href="#features05-3" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i
@@ -442,9 +442,10 @@
                                     <strong>Frontend Developer</strong>
                                 </h5>
                                 <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
-
                                     A front-end developer is responsible for designing and developing the user interface and
-                                    user experience of a website or web application. </p>
+                                    user experience of a website or web application.
+                                     </p>
+                                    <br>
                             </div>
                         </a>
                         <div class="iconfont-wrapper align-right">
