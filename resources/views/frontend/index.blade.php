@@ -1,6 +1,5 @@
 @extends('frontend.layouts.main')
 <script src="https://kit.fontawesome.com/26ae5e4e2d.js" crossorigin="anonymous"></script>
-
 @section('content')
     <section data-bs-version="5.1" class="header4 cid-tlVfs8bofq" id="header04-1">
         <div class="container">
@@ -550,7 +549,7 @@
         </div>
     </section> --}}
 
-    <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9"
+    {{-- <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9"
         style='background-color:#c6ffe0 !important'>
         <div class="container">
             <div class="row wrap justify-content-center">
@@ -659,7 +658,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
 
     <section data-bs-version="5.1" class="people2 cid-tlVYAz9sV8" id="people02-6">
