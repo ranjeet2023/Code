@@ -177,7 +177,7 @@
                                 with their target audience.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="{{ url('newwebsite') }}">Get
+                                <a class="btn btn-primary display-4" href="{{ url('new-website') }}">Get
                                     Started</a>
                             </div>
                         </div>
@@ -198,7 +198,7 @@
                                 shopping carts, and order management systems.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="/">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('e-commerce') }}">Get Started</a>
                             </div>
                         </div>
                     </div>
