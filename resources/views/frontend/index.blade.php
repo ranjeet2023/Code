@@ -13,7 +13,7 @@
                                 <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7">
                                     AmethiTech
                                 </h2>
-                                <span class="mbr-iconfont fs-25 "><i class="fa-sharp fa-solid fa-arrow-pointer"></i></span>
+                                <span class="mbr-iconfont fs-25 "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                             </div>
                         </div>
 
@@ -161,7 +161,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                            <span class="mbr-iconfont mobi-mbri-code mobi-mbri"></span>
+                                <span class="mbr-iconfont "><i class="fa-solid fa-globe fa-flip"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -182,7 +182,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                            <span class="mbr-iconfont mobi-mbri-responsive-2 mobi-mbri"></span>
+                            <span class="mbr-iconfont "><i class="fa-solid fa-dumpster fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -202,7 +202,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                            <span class="mbr-iconfont mobi-mbri-clock mobi-mbri"></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-school-circle-check"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -223,7 +223,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                            <span class="mbr-iconfont mobi-mbri-clock mobi-mbri"></span>
+                         <span class="mbr-iconfont"><i class="fa-solid fa-sliders fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -244,511 +244,6 @@
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="article4 cid-tlVYyystHs" id="article04-5">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-12 col-lg-10">
-                    <div class="text-wrapper align-left md-pb">
-                        <div class="subtitle-wrap"></div>
-
-                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
-                            <strong>Why use&nbsp;<a href="" class="text-secondary">Framework?</a></strong>
-                        </h1>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Mauris&nbsp;leo imperdiet commodo felis a interdum. Nam lacinia
-                            nisl sed accumsan hendrerit. In urna massa, ut ullamcorper leo
-                            porta et. Praesent id placerat justo.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-{{-- slider --}}
-    {{-- <section class="explore-courses-section">
-        <div class="d-flex align-items-center">
-            <h2 class="me-auto">Learn In-Demand Skills With Live Training Courses </h2>
-        </div>
-        <div class=" ">
-            <div class="owl-slider mt-lg-5 mt-4">
-                <div id="exploreCourse" class="owl-carousel d-flex align-items-center owl-loaded owl-drag">
-
-                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3574px, 0px, 0px); transition: all 0.4s linear 0s; width: 11122px;"><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-seo-course-india.html" class="d-block decoration-none explore-card bg-white" title="SEO Course">
-                        <div>
-                            <img src="images/seo-course.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">SEO Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">45 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">75K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-content-writing-course.html" class="d-block decoration-none explore-card bg-white" title="Content Writing Course">
-                        <div>
-                            <img src="images/content-writing.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Content Writing Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">60 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">500+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="best-wordpress-online-course-india.html" class="d-block decoration-none explore-card bg-white" title="WordPress Course">
-                        <div>
-                            <img src="images/wordpress-course.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Web Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">WordPress Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">50 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">24K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-mern-stack-developer-course-india.html" class="d-block decoration-none explore-card bg-white" title="MERN Stack Course">
-                        <div>
-                            <img src="images/best-mern-stack-course-online.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Web Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">MERN Stack Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2"> 5-6 Months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">28K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-advertising-course-india.html" class="d-block decoration-none explore-card bg-white" title="Full Online Ads Course">
-                        <div>
-                            <img src="images/online-ads-course-india.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing</span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Full Online Ads Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">2.5 Months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">21K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-youtube-seo-marketing-course-india.html" class="d-block decoration-none explore-card bg-white" title="YouTube Course">
-                        <div>
-                            <img src="images/online-youtube-seo-course-india.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing</span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">YouTube Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">5 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">14K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-youtube-seo-marketing-course-india.html" class="d-block decoration-none explore-card bg-white" title="YouTube Course">
-                        <div>
-                            <img src="images/flutter-app.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">App Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Flutter App Development Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">3 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">10K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-python-certification-course-india.html" class="d-block decoration-none explore-card bg-white" title="Python Programming Course">
-                        <div>
-                            <img src="images/python.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Programming</span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Python Programming Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">45 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">25K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-android-app-development-course-india.html" class="d-block decoration-none explore-card bg-white" title="Android App Development Course">
-                        <div>
-                            <img src="images/android-development.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">App Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Android App Development Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">4 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">23K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item active" style="width: 367.188px; margin-right: 30px;"><a href="online-web-development-course-india.html" class="d-block decoration-none explore-card bg-white" title="Full-Stack Web Development Course">
-                        <div>
-                            <img src="images/web-development.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Web Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Full-Stack Web Development Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">4 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">29K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item active" style="width: 367.188px; margin-right: 30px;"><a href="online-digital-marketing-course-india.html" class="d-block decoration-none explore-card bg-white" title="Digital Marketing Course">
-                        <div>
-                            <img src="images/dm-course.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Digital Marketing Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">3 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">89K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item active" style="width: 367.188px; margin-right: 30px;"><a href="online-ethical-hacking-course.html" class="d-block decoration-none explore-card bg-white" title="Ethical Hacking Course">
-                        <div>
-                            <img src="images/ethical-hacking.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Cybersecurity </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Ethical Hacking Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">60 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">14K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item active" style="width: 367.188px; margin-right: 30px;"><a href="online-pentesting-course.html" class="d-block decoration-none explore-card bg-white" title="Penetration Testing Course">
-                        <div>
-                            <img src="images/penetration-testing-live-courses.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Cybersecurity </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Penetration Testing Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">4 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">21K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-data-science-certification-course.html" class="d-block decoration-none explore-card bg-white" title="Data Science Course">
-                        <div>
-                            <img src="images/data-science.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Professional </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Data Science Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">6 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">400+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-seo-course-india.html" class="d-block decoration-none explore-card bg-white" title="SEO Course">
-                        <div>
-                            <img src="images/seo-course.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">SEO Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">45 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">75K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-content-writing-course.html" class="d-block decoration-none explore-card bg-white" title="Content Writing Course">
-                        <div>
-                            <img src="images/content-writing.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Content Writing Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">60 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">500+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="best-wordpress-online-course-india.html" class="d-block decoration-none explore-card bg-white" title="WordPress Course">
-                        <div>
-                            <img src="images/wordpress-course.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Web Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">WordPress Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">50 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">24K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-mern-stack-developer-course-india.html" class="d-block decoration-none explore-card bg-white" title="MERN Stack Course">
-                        <div>
-                            <img src="images/best-mern-stack-course-online.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Web Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">MERN Stack Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2"> 5-6 Months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">28K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-advertising-course-india.html" class="d-block decoration-none explore-card bg-white" title="Full Online Ads Course">
-                        <div>
-                            <img src="images/online-ads-course-india.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing</span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Full Online Ads Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">2.5 Months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">21K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-youtube-seo-marketing-course-india.html" class="d-block decoration-none explore-card bg-white" title="YouTube Course">
-                        <div>
-                            <img src="images/online-youtube-seo-course-india.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing</span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">YouTube Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">5 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">14K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item" style="width: 367.188px; margin-right: 30px;"><a href="online-youtube-seo-marketing-course-india.html" class="d-block decoration-none explore-card bg-white" title="YouTube Course">
-                        <div>
-                            <img src="images/flutter-app.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">App Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Flutter App Development Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">3 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">10K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-python-certification-course-india.html" class="d-block decoration-none explore-card bg-white" title="Python Programming Course">
-                        <div>
-                            <img src="images/python.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Programming</span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Python Programming Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">45 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">25K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-android-app-development-course-india.html" class="d-block decoration-none explore-card bg-white" title="Android App Development Course">
-                        <div>
-                            <img src="images/android-development.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">App Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Android App Development Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">4 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">23K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-web-development-course-india.html" class="d-block decoration-none explore-card bg-white" title="Full-Stack Web Development Course">
-                        <div>
-                            <img src="images/web-development.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Web Development </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Full-Stack Web Development Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">4 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">29K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-digital-marketing-course-india.html" class="d-block decoration-none explore-card bg-white" title="Digital Marketing Course">
-                        <div>
-                            <img src="images/dm-course.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Digital Marketing </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Digital Marketing Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">3 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">89K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-ethical-hacking-course.html" class="d-block decoration-none explore-card bg-white" title="Ethical Hacking Course">
-                        <div>
-                            <img src="images/ethical-hacking.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Cybersecurity </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Ethical Hacking Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">60 days training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">14K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-pentesting-course.html" class="d-block decoration-none explore-card bg-white" title="Penetration Testing Course">
-                        <div>
-                            <img src="images/penetration-testing-live-courses.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Cybersecurity </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Penetration Testing Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">4 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">21K+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div><div class="owl-item cloned" style="width: 367.188px; margin-right: 30px;"><a href="online-data-science-certification-course.html" class="d-block decoration-none explore-card bg-white" title="Data Science Course">
-                        <div>
-                            <img src="images/data-science.webp" class="card-img-top" alt="Image">
-                        </div>
-                        <div class="p-3">
-                            <div class="my-3">
-                                <span class="web-design-tag">Professional </span>
-                            </div>
-                            <h3 class="fs-21 mb-3 fw-700 label-color-2">Data Science Course</h3>
-                            <ul class="ps-3">
-                                <li class="label-color-1 fs-16 fw-400 mb-2">6 months training</li>
-                                <li class="label-color-1 fs-16 fw-400 mb-2">400+ students trained</li>
-                            </ul>
-                        </div>
-                    </a></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><div class="nav-btn prev-slide"><img alt="arrow-img" width="17" height="17" src="images/arrow-left-white.png" class="arr-left-white"><img alt="arrow-img" width="17" height="17" src="images/arrow-left-blue.png" class="arr-left-blue"></div></button><button type="button" role="presentation" class="owl-next"><div class="nav-btn next-slide"><img alt="arrow-img" width="17" height="17" src="images/arrow-right-white.png" class="arr-right-white"><img alt="arrow-img" width="17" height="17" src="images/arrow-right-blue.png" class="arr-right-blue"></div></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
-            </div>
-        </div>
-    </section> --}}
-
-    <section data-bs-version="5.1" class="features6 cid-tlVYUtaSS3" id="features06-b">
-        <div class="container">
-            <div class="row"></div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="row row-h">
-                        <div class="card col-12 col-md-12 col-lg-12">
-                            <div class="card-big">
-                                <div class="card-box align-left">
-                                    <h5 class="cardbig-title mbr-fonts-style pb-3 display-5">
-                                        <strong>Our Framework</strong>
-                                    </h5>
-                                    <p class="cardbig-text mbr-fonts-style display-4">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Praesent viverra nisl neque, ut interdum eros placerat
-                                        sed. Integer finibus orci quis faucibus lobortis. Aenean
-                                        fringilla elementum tortor at ultrices. Curabitur non arcu
-                                        diam. Donec malesuada pharetra pharetra. In congue commodo
-                                        bibendum.
-                                    </p>
-
-                                    <div class="link-wrapper">
-                                        <div class="link">
-                                            <p class="cardbig-link mbr-fonts-style m-0 display-4">
-                                                Read More
-                                            </p>
-                                            <span class="mbr-linkiconfont mobi-mbri-right mobi-mbri"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="row">
-                        <div class="card col-12 col-md-12 col-lg-12">
-                            <div class="card-wrapper">
-                                <div class="card-box align-left">
-                                    <h5 class="card-title mbr-fonts-style pb-3 display-5">
-                                        <strong>Optimized code</strong>
-                                    </h5>
-                                    <p class="card-text mbr-fonts-style display-4">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Praesent viverra nisl neque, ut interdum eros placerat
-                                        sed. Integer finibus faucibus lobortis.
-                                    </p>
-
-                                    <div class="iconfont-wrapper align-right">
-                                        <span class="mbr-iconfont mobi-mbri-right mobi-mbri"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card col-12 col-md-12 col-lg-12">
-                            <div class="card-wrapper">
-                                <div class="card-box align-left">
-                                    <h5 class="card-title mbr-fonts-style pb-3 display-5">
-                                        <strong>Best solutions</strong>
-                                    </h5>
-                                    <p class="card-text mbr-fonts-style display-4">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                        Praesent viverra nisl neque, ut interdum eros placerat
-                                        sed. Integer finibus faucibus lobortis.
-                                    </p>
-                                    <div class="iconfont-wrapper align-right">
-                                        <span class="mbr-iconfont mobi-mbri-right mobi-mbri"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section data-bs-version="5.1" class="header3 cid-tlW10G27JW" id="header03-e">
         <div class="container">
             <div class="row justify-content-center">
@@ -757,12 +252,12 @@
                         <div class="subtitle-wrap"></div>
 
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
-                            <strong>Solutions that work for any product</strong>
+                            <strong>Why Choose AmethiTech</strong>
                         </h1>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-                            erat augue, elementum vel semper eget, auctor sed turpis.
-                            Phasellus tempor vestibulum nunc ut finibus.
+                            We prioritize the value of time in the fast-paced business world.
+                            With our agile development methodologies, we guarantee meeting
+                            deadlines and delivering projects on time, while maintaining exceptional quality.
                         </p>
                         <div class="mbr-section-btn mt-4">
                             <a class="btn btn-primary display-4" href="/">Get Started</a>
@@ -1050,58 +545,16 @@
             </div>
         </div>
     </section>
-    <!-- Contact Start -->
-    <section data-bs-version="5.1" class="people1 cid-tlVYAOi4lu" id="people01-7 mt-2">
-        <div class="images-container container">
-            <div class="mbr-section-head"></div>
-            <div class="row justify-content-center mt-4">
-                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                    <h2 class="section-title text-center text-dark px-3" style="color:black;text-decoration:underline;">
-                        Contact Us</h2>
-                </div>
-                <div class="row g-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <h5>Get In Touch</h5>
-                        <div class="d-flex align-items-center mb-3">
-                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
-                                style="width: 50px; height: 50px;">
-                                <i class="fa fa-map-marker-alt text-white"></i>
-                            </div>
-                            <div class="ms-3">
-                                <h5 class="text-primary">Office</h5>
-                                <p class="mb-0">Amethi, UP, India</p>
-                            </div>
-                        </div>
-                        <div class="d-flex align-items-center mb-3">
-                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
-                                style="width: 50px; height: 50px;">
-                                <i class="fa fa-phone-alt text-white"></i>
-                            </div>
-                            <div class="ms-3">
-                                <h5 class="text-primary">Mobile</h5>
-                                <p class="mb-0">+917755897867</p>
-                                <p class="mb-0">+917217645059</p>
-                            </div>
-                        </div>
-                        <div class="d-flex align-items-center">
-                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
-                                style="width: 50px; height: 50px;">
-                                <i class="fa fa-envelope-open text-white"></i>
-                            </div>
-                            <div class="ms-3">
-                                <h5 class="text-primary">Email</h5>
-                                <p class="mb-0">vikramsingh77558@gmail.com</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <iframe class="position-relative rounded w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.7726238008718!2d81.8202397!3d26.1715336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399af5aaec6cda0d%3A0xde1e38171848ea67!2sSHUBH%20IT%20SOLUTION!5e0!3m2!1sen!2sin!4v1686972616065!5m2!1sen!2sin"
-                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
-                    </div>
-                    <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
-                        <form>
+     <!-- Contact Start -->
+    <section data-bs-version="5.1" class="features6 cid-tlVYUtaSS3 " id="features06-b" style='background-color:#c6ffe0 !important'>
+        <div class="container">
+            <div class="row"></div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="row row-h">
+                        <div class="card col-12 col-md-12 col-lg-12">
+                            <div class="card-big">
+                               <form>
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">
@@ -1137,6 +590,55 @@
                                 </div>
                             </div>
                         </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="card col-12 col-md-12 col-lg-12">
+                            <div class="card-wrapper">
+                                <div class="card-box align-left">
+                                    <h5>Get In Touch</h5>
+                                    <div class="d-flex align-items-right ml-5">
+                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                            <i class="fa fa-map-marker-alt text-white"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <h5 class="text-primary">Office</h5>
+                                            <p class="mb-0">Amethi, UP, India</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center mb-3">
+                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                            <i class="fa fa-phone-alt text-white"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <h5 class="text-primary">Mobile</h5>
+                                            <p class="mb-0">+917755897867</p>
+                                            <p class="mb-0">+917217645059</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-center">
+                                        <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                            <i class="fa fa-envelope-open text-white"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <h5 class="text-primary">Email</h5>
+                                            <p class="mb-0">vikramsingh77558@gmail.com</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card col-12 col-md-12 col-lg-12">
+                            <div class="card-wrapper">
+                                  <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                                    <iframe class="position-relative rounded w-100 h-100"
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.7726238008718!2d81.8202397!3d26.1715336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399af5aaec6cda0d%3A0xde1e38171848ea67!2sSHUBH%20IT%20SOLUTION!5e0!3m2!1sen!2sin!4v1686972616065!5m2!1sen!2sin" width="100%"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                  </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
