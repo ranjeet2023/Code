@@ -141,7 +141,7 @@
                                 <span class="mbr-linkiconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                                 <p class="mbr-link mbr-fonts-style m-0 display-4">
                                     <strong>
-                                        <a href="" class="text-black">Get Started</a></strong>
+                                        <a href="{{url('/join-now')}}" class="text-black">Get Started</a></strong>
                                 </p>
                             </div>
                         </div>
@@ -265,9 +265,6 @@
                             With our agile development methodologies, we guarantee meeting
                             deadlines and delivering projects on time, while maintaining exceptional quality.
                         </p>
-                        <div class="mbr-section-btn mt-4">
-                            <a class="btn btn-primary display-4" href="/">Get Started</a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-12 pt-4 col-md-12 col-lg-8 image-wrapper">
