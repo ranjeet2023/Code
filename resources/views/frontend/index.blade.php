@@ -22,7 +22,7 @@
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-1">
                             <strong>Web Development </strong>
                         </h1>
-                        <p class="mbr-text mbr-fonts-style display-7">
+                        <p class="mbr-text mbr-fonts-style display-7 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
                             Amethitech is a dynamic web development company committed
                             to delivering exceptional solutions for businesses.
                         </p>
@@ -51,7 +51,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-7">
                                 <strong>Optimized code</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
                                 Optimized code: efficient algorithms, minimal redundancy, enhanced performance.
                             </p>
                         </div>
@@ -66,7 +66,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-7">
                                 <strong>Best solutions</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
                                 Optimizing Code for Optimal Performance and Efficiency
                             </p>
                         </div>
@@ -82,7 +82,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-7">
                                 <strong>Time saving</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
                                 Time-saving through code optimization: maximizing efficiency and minimizing execution time.
                             </p>
                         </div>
@@ -121,7 +121,7 @@
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
                             <strong>Web Development </strong>
                         </h1>
-                        <p class="mbr-text mbr-fonts-style mb-4 display-4">
+                        <p class="mbr-text mbr-fonts-style mb-4 display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                             Building Powerful and User-Friendly Websites with
                             Responsive Design, Interactive Features, and Seamless Functionality.
                         </p>
@@ -171,7 +171,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
                                 <strong>New Website Creation</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                                 Create visually stunning and modern websites that
                                 capture the essence of your clients' brands and resonate
                                 with their target audience.
@@ -192,7 +192,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
                                 <strong>E-commerce Solution</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                                 Build fully functional and visually appealing e-commerce websites,
                                 complete with product catalogs, secure payment gateways,
                                 shopping carts, and order management systems.
@@ -212,7 +212,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
                                 <strong>School Website Development</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                                 Create dynamic and engaging websites for
                                 educational institutions, providing a platform to
                                 showcase their offerings, share important information,
@@ -233,7 +233,7 @@
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
                                 <strong>Website Maintenance and Support</strong>
                             </h5>
-                            <p class="card-text mbr-fonts-style display-4">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                                 Offer regular website maintenance services, including updates,
                                 security enhancements, bug fixes, and performance optimization, to ensure
                                 websites remain secure, up-to-date, and running smoothly.
@@ -258,7 +258,7 @@
                         <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
                             <strong>Why Choose AmethiTech</strong>
                         </h1>
-                        <p class="mbr-text mbr-fonts-style display-7">
+                        <p class="mbr-text mbr-fonts-style display-7 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                             We prioritize the value of time in the fast-paced business world.
                             With our agile development methodologies, we guarantee meeting
                             deadlines and delivering projects on time, while maintaining exceptional quality.
@@ -439,7 +439,8 @@
                                 <h5 class="card-title mbr-fonts-style m-0 display-7">
                                     <strong>Frontend Developer</strong>
                                 </h5>
-                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4"
+                                    style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
 
                                     A front-end developer is responsible for designing and developing the user interface and
                                     user experience of a website or web application. </p>
@@ -459,7 +460,8 @@
                                 <h5 class="card-title mbr-fonts-style m-0 display-7">
                                     <strong>Backend Developer</strong>
                                 </h5>
-                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4"
+                                    style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
 
                                     A back-end developer focuses on building and maintaining the server-side logic and
                                     infrastructure that powers the functionality of a website or web application.
@@ -480,7 +482,7 @@
                                 <h5 class="card-title mbr-fonts-style m-0 display-7">
                                     <strong>Fullstack Web Developer</strong>
                                 </h5>
-                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
 
                                     A full-stack developer is proficient in both front-end and back-end development, capable
                                     of
@@ -503,7 +505,7 @@
                                 <h5 class="card-title mbr-fonts-style m-0 display-7">
                                     <strong>Laravel Developer</strong>
                                 </h5>
-                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
                                     A Laravel developer specializes in using the Laravel framework to build robust and
                                     scalable
                                     web applications with PHP.
@@ -671,7 +673,7 @@
                             <strong><a href="" class="text-success">AmethiTech.</a>
                             </strong>
                         </h1>
-                        <p class="mbr-text mbr-fonts-style display-7">
+                        <p class="mbr-text mbr-fonts-style display-7 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
                             "Innovation is our code, and technology is our language. Together,
                             we build the future, one line at a time"
                             <br>

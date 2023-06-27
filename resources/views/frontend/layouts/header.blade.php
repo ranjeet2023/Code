@@ -49,22 +49,22 @@
         </div>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+        <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true" >
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="{{ url('/#header04-1') }}" style="padding: 0px !important;margin-left: 0px !important;">Home</a>
+            <a class="nav-link link text-secondary display-4 fs-4" href="{{ url('/#header04-1') }}" style="padding: 0px !important;margin-left: 0px !important;line-height: 1.6rem; font-family:'Times New Roman', Times, serif">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="{{ url('/#features04-2') }}" style="padding: 0px !important;margin-left: 0px !important;">About</a>
+            <a class="nav-link link text-secondary display-4 fs-4" href="{{ url('/#features04-2') }}" style="padding: 0px !important;margin-left: 0px !important; line-height: 1.6rem; font-family:'Times New Roman', Times, serif">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link  k text-secondary show display-4" href="{{ url('/#features05-3') }}" aria-expanded="true" style="padding: 0px !important;margin-left: 0px !important;">Services</a>
+            <a class="nav-link link  k text-secondary show display-4 fs-4" href="{{ url('/#features05-3') }}" aria-expanded="true" style="padding: 0px !important;margin-left: 0px !important; line-height: 1.6rem; font-family:'Times New Roman', Times, serif">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-secondary display-4" href="{{ url('/#features06-b')}}" style="padding: 0px !important;margin-left: 0px !important;">Contacts</a>
+            <a class="nav-link link text-secondary display-4 fs-4" href="{{ url('/#features06-b')}}" style="padding: 0px !important;margin-left: 0px !important; line-height: 1.6rem; font-family:'Times New Roman', Times, serif">Contacts</a>
           </li>
         </ul>
         <div class="navbar-buttons mbr-section-btn">
-          <a class="btn btn-secondary-outline display-4" href="{{ url('join-now') }}">Join Now</a>
+          <a class="btn btn-secondary-outline display-4 fs-3" href="{{ url('join-now') }}" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">Join Now</a>
         </div>
       </div>
     </div>

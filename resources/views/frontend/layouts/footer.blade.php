@@ -35,10 +35,10 @@
                 <strong>Courses</strong>
             </h2>
             <ul class="list mbr-fonts-style display-4">
-                <li class="mbr-text item-wrap mt-2">Frontend Developer</li>
-                <li class="mbr-text item-wrap mt-2">Backend Developer</li>
-                <li class="mbr-text item-wrap mt-2">Fullstack Web Developer</li>
-                <li class="mbr-text item-wrap mt-2">Laravel Developer</li>
+                <a href="{{url('frontend')}}"><li class="mbr-text item-wrap mt-2">Frontend Developer</li></a>
+                <a href="{{url('backend')}}"><li class="mbr-text item-wrap mt-2">Backend Developer</li></a>
+                <a href="{{url('fullstack')}}"><li class="mbr-text item-wrap mt-2">Fullstack Web Developer</li></a>
+                <a href="{{url('laravel')}}"><li class="mbr-text item-wrap mt-2">Laravel Developer</li></a>
             </ul>
         </div>
         <div class="col-12 col-md-3">
@@ -46,14 +46,14 @@
                 <strong>Our Services</strong>
             </h2>
             <ul class="list mbr-fonts-style display-4">
-                    <li class="mbr-text item-wrap mt-2">
-                    New Website Creation</li>
-                <li class="mbr-text item-wrap mt-2">
-                    E-commerce Solution</li>
-                <li class="mbr-text item-wrap mt-2">
-                    School Website Development</li>
-                <li class="mbr-text item-wrap mt-2">
-                    Website Maintenance and Support</li>
+                    <a href="{{url('new-website')}}"><li class="mbr-text item-wrap mt-2">
+                    New Website Creation</li></a>
+                <a href="{{url('e-commerce')}}"><li class="mbr-text item-wrap mt-2">
+                    E-commerce Solution</li></a>
+                <a href="{{url('school')}}"><li class="mbr-text item-wrap mt-2">
+                    School Website Development</li></a>
+                <a href=""><li class="mbr-text item-wrap mt-2">
+                    Website Maintenance and Support</li></a>
             </ul>
         </div>
       <div class="col-12 col-md-3">
