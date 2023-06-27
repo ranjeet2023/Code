@@ -1,13 +1,15 @@
 @extends('frontend.layouts.main')
+{{-- @push('title')
+    Website Maintenance and Support
+@endpush --}}
 <script src="https://kit.fontawesome.com/26ae5e4e2d.js" crossorigin="anonymous"></script>
-
 @section('content')
     <section data-bs-version="5.1" class="header4 cid-tlVfs8bofq" id="header04-1">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-12 col-lg">
                     <div class="text-wrapper align-left md-pb">
-                        <div class="subtitle-align-wrap">
+                        <div class="subtitle-align-wrap contact-us" >
                             <a href="#features06-b">
                                 <div class="subtitle-wrap">
                                     <span class=""><i class="fa-solid fa-code"></i></span>
@@ -99,8 +101,8 @@
                     <div class="text-wrapper align-left md-pb">
                         <div class="icon-wrap d-flex mb-5">
                             <div class="icon-wrap d-flex mb-5">
-                                <a href="#list01-a" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
-                                            class="fa-solid fa-code fa-fade"></i></span> Course</a>
+                                <a href="#list01-a" class='text-center text-dark '><span class="mbr-iconfont mx-4 ml-3"><i
+                                            class="fa-solid fa-code fa-fade "></i></span> Course</a>
                                 <a href="#features06-b" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
                                             class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
                                 <a href="#features05-3" class='text-center text-dark'><span class="mbr-iconfont  mx-3"><i
@@ -206,7 +208,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="iconfont-wrapper">
-                            <span class="mbr-iconfont"><i class="fa-solid fa-school-circle-check"></i></span>
+                            <span class="mbr-iconfont"><i class="fa-solid fa-school-circle-check fa-fade""></i></span>
                         </div>
                         <div class="card-box align-left">
                             <h5 class="card-title mbr-fonts-style pb-3 display-5">
@@ -219,7 +221,7 @@
                                 and facilitate communication between students, parents, and staff.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="/">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('school') }}">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -239,7 +241,7 @@
                                 websites remain secure, up-to-date, and running smoothly.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="/">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('web-maintaine') }}">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -439,11 +441,11 @@
                                 <h5 class="card-title mbr-fonts-style m-0 display-7">
                                     <strong>Frontend Developer</strong>
                                 </h5>
-                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4"
-                                    style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
-
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
                                     A front-end developer is responsible for designing and developing the user interface and
-                                    user experience of a website or web application. </p>
+                                    user experience of a website or web application.
+                                     </p>
+                                    <br>
                             </div>
                         </a>
                         <div class="iconfont-wrapper align-right">
@@ -552,7 +554,7 @@
         </div>
     </section> --}}
 
-    <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9"
+    {{-- <section data-bs-version="5.1" class="team1 cid-tlVYOjlXVH" id="people04-9"
         style='background-color:#c6ffe0 !important'>
         <div class="container">
             <div class="row wrap justify-content-center">
@@ -661,7 +663,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
 
     <section data-bs-version="5.1" class="people2 cid-tlVYAz9sV8" id="people02-6">
