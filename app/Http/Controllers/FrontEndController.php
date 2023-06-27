@@ -50,7 +50,7 @@ class FrontEndController extends Controller
     public function WebMaintaine(){
         return view('frontend.ourServices.webmaintain');
     }
-    public function webdeveloper(){
-        return view('frontend.webdeveloper');
+    public function AmethiTech(){
+        return view('amethitech');
     }
 }
