@@ -29,7 +29,7 @@
                             to delivering exceptional solutions for businesses.
                         </p>
                         <div class="mbr-section-btn mt-4">
-                            <a class="btn btn-secondary-outline display-4" href="/">Read more</a>
+                            <a class="btn btn-secondary-outline display-4" href="{{url('web-developer')}}">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                                 <span class="mbr-linkiconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                                 <p class="mbr-link mbr-fonts-style m-0 display-4">
                                     <strong>
-                                        <a href="" class="text-black">Read More Info</a></strong>
+                                        <a href="{{url('web-developer')}}" class="text-black">Read More Info</a></strong>
                                 </p>
                             </div>
 
@@ -438,7 +438,7 @@
                                 <h5 class="card-title mbr-fonts-style m-0 display-7">
                                     <strong>Frontend Developer</strong>
                                 </h5>
-                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4">
+                                <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
                                     A front-end developer is responsible for designing and developing the user interface and
                                     user experience of a website or web application.
                                      </p>

@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 @section('content')
 <section data-bs-version="5.1" class="features4 cid-tlVYmXxmF5" id="features05-3">
-    <div class="container" id="services">
+    <div class="container fs-4" id="services" style="font-family: 'Times New Roman', Times, serif">
         <div class="row">
             <div class="col-12 pb-5 col-lg-9">
                 <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
@@ -87,7 +87,7 @@
                         <div class="card text-center">
                             <div class="card-header" id="headingOne">
                             <h5 class="mb-0">
-                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <button class="btn btn-link btn-lg fs-4" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                  HTML
                                 </button>
                             </h5>
@@ -111,7 +111,7 @@
                         <div class="card text-center">
                             <div class="card-header" id="headingTwo">
                             <h5 class="mb-0">
-                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <button class="btn btn-link collapsed btn-lg fs-4" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                 CSS
                                 </button>
                             </h5>
@@ -135,8 +135,8 @@
                             <div class="card text-center">
                                 <div class="card-header" id="headingThree">
                                 <h5 class="mb-0">
-                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    JavaScript:
+                                    <button class="btn btn-link collapsed btn-lg fs-4" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    JavaScript
                                     </button>
                                 </h5>
                                 </div>
@@ -169,8 +169,8 @@
                             <div class="card text-center">
                                 <div class="card-header" id="headingFour">
                                 <h5 class="mb-0">
-                                    <button class="btn btn-link collapsed tesx" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    bootStrap:
+                                    <button class="btn btn-link collapsed tesx btn-lg fs-4" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    bootStrap
                                     </button>
                                 </h5>
                                 </div>
@@ -199,6 +199,30 @@
                                     Documentation and Community: Bootstrap has comprehensive documentation with examples, guidelines, and usage instructions. The Bootstrap community is active and provides support, resources, and third-party themes and templates.
                                  <br>
                                      Bootstrap is a valuable tool for web developers, as it allows for rapid prototyping, efficient development, and consistent styling. It provides a solid foundation for building modern and visually appealing web applications.
+                                </div>
+                            </div>
+                            <div class="card text-center">
+                                <div class="card-header" id="headingFive">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link btn-lg fs-4" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseOne">
+                                     PHP
+                                    </button>
+                                </h5>
+                                </div>
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+                                <div class="card-body">
+                                    PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).
+                                    <br>
+                                    PHP is designed specifically for server-side scripting, meaning it runs on a web server and generates HTML code that is sent to the client's web browser. It allows developers to create dynamic web pages that can interact with databases, handle forms, process user input, and perform various server-side tasks.
+                                    <br>
+                                    PHP offers a wide range of features, including support for multiple databases (such as MySQL, PostgreSQL, SQLite, etc.), extensive libraries and frameworks (such as Laravel, Symfony, and CodeIgniter), and compatibility with various web servers and operating systems.
+                                    <br>
+                                    PHP is a versatile language and can be used for various purposes beyond web development. It can be used for command-line scripting, developing desktop applications, and even for creating APIs and web services.
+                                    <br>
+                                    PHP is a cross-platform language, which means it can run on different operating systems such as Windows, macOS, Linux, and various web servers like Apache and Nginx.
+                                    <br>
+                                    PHP is actively developed and maintained by a dedicated team of developers. Regular updates and new versions are released with improved performance, security enhancements, and new features. As of my knowledge cutoff in September 2021, the latest stable version is PHP 8.0.
+                                </div>
                                 </div>
                             </div>
                         </div>
