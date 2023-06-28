@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/26ae5e4e2d.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 @section('content')
-<section data-bs-version="5.1" class="features4 cid-tlVYmXxmF5" id="features05-3">
+<section data-bs-version="5.1" class="features4 cid-tlVYmXxmF5" id="features05">
     <div class="container fs-4" id="services" style="font-family: 'Times New Roman', Times, serif">
         <div class="row">
             <div class="col-12 pb-5 col-lg-9">

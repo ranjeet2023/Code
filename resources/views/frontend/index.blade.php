@@ -29,7 +29,7 @@
                             to delivering exceptional solutions for businesses.
                         </p>
                         <div class="mbr-section-btn mt-4">
-                            <a class="btn btn-secondary-outline display-4" href="{{url('web-developer')}}">Read more</a>
+                            <a class="btn btn-secondary-outline display-4" href="{{url('amethi-tech')}}">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
                                 <span class="mbr-linkiconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                                 <p class="mbr-link mbr-fonts-style m-0 display-4">
                                     <strong>
-                                        <a href="{{url('web-developer')}}" class="text-black">Read More Info</a></strong>
+                                        <a href="{{url('amethi-tech')}}" class="text-black">Read More Info</a></strong>
                                 </p>
                             </div>
 

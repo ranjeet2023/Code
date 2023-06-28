@@ -1,7 +1,7 @@
 @extends('frontend.layouts.main')
 <script src="https://kit.fontawesome.com/26ae5e4e2d.js" crossorigin="anonymous"></script>
 @section('content')
- <section data-bs-version="5.1" class="features4 cid-tlVYmXxmF5" id="features05 ">
+ <section data-bs-version="5.1" class="features4 cid-tlVYmXxmF5" id="features05">
         <div class="container" id="services">
             <div class="row">
                 <div class="col-12 pb-5 col-lg-9">
