@@ -8,7 +8,7 @@
  <section data-bs-version="5.1" class="features6 cid-tlVYUtaSS3 " id="features06-b" style='background-color:#c6ffe0 !important'>
         <div class="container">
             <div class="row"></div>
-                <div class="card text-black" style="border-radius: 25px;" style="background-color: #eee;">
+                <div class="card text-black" style="border-radius: 35px;" style="background-color: #eee;">
                     <div class="card-body p-md-5">
                         <div class="row justify-content-center">
                             <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">

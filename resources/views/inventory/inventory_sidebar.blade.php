@@ -2,7 +2,7 @@
     <div class="sidebar-header">
         <a class="header-brand" href="{{route('dashboard')}}">
             <div class="logo-img">
-               <img height="30" src="{{ asset('img/logo_white.png')}}" class="header-brand-img" title="RADMIN"> 
+               <img height="30" src="{{ asset('img/logo_white.png')}}" class="header-brand-img" title="RADMIN">
             </div>
         </a>
         <div class="sidebar-action"><i class="ik ik-arrow-left-circle"></i></div>
@@ -13,7 +13,7 @@
         $segment1 = request()->segment(1);
         $segment2 = request()->segment(2);
     @endphp
-    
+
     <div class="sidebar-content">
         <div class="nav-container">
             <nav id="main-menu-navigation" class="navigation-main">
@@ -22,9 +22,9 @@
                 </div>
 
                 <!-- start inventory pages -->
-                <div class="nav-item {{ ($segment1 == 'pos') ? 'active' : '' }}">
+                {{-- <div class="nav-item {{ ($segment1 == 'pos') ? 'active' : '' }}">
                     <a href="{{url('pos')}}"><i class="ik ik-printer"></i><span>{{ __('POS')}}</span> <span class=" badge badge-success badge-right">{{ __('New')}}</span></a>
-                </div>
+                </div> --}}
                 <div class="nav-item {{ ($segment1 == 'products') ? 'active open' : '' }} has-sub">
                     <a href="#"><i class="ik ik-headphones"></i><span>{{ __('Products')}}</span></a>
                     <div class="submenu-content">
@@ -35,20 +35,20 @@
                 <div class="nav-item {{ ($segment1 == 'categories') ? 'active' : '' }}">
                     <a href="{{url('categories')}}"><i class="ik ik-list"></i><span>{{ __('Categories')}}</span></a>
                 </div>
-                <div class="nav-item {{ ($segment1 == 'sales') ? 'active open' : '' }} has-sub">
+                {{-- <div class="nav-item {{ ($segment1 == 'sales') ? 'active open' : '' }} has-sub">
                     <a href="#"><i class="ik ik-shopping-cart"></i><span>{{ __('Sales')}}</span></a>
                     <div class="submenu-content">
                         <a href="{{url('sales/create')}}" class="menu-item {{ ($segment1 == 'sales' && $segment2 == 'create') ? 'active' : '' }}">{{ __('Add Sale')}}</a>
                         <a href="{{url('sales')}}" class="menu-item {{ ($segment1 == 'sales' && $segment2 == '') ? 'active' : '' }}">{{ __('List Sales')}}</a>
                     </div>
-                </div>
-                <div class="nav-item {{ ($segment1 == 'purchases') ? 'active open' : '' }} has-sub">
+                </div> --}}
+                {{-- <div class="nav-item {{ ($segment1 == 'purchases') ? 'active open' : '' }} has-sub">
                     <a href="#"><i class="ik ik-truck"></i><span>{{ __('Purchases')}}</span></a>
                     <div class="submenu-content">
                         <a href="{{url('purchases/create')}}" class="menu-item {{ ($segment1 == 'purchases' && $segment2 == 'create') ? 'active' : '' }}">{{ __('Add Purchase')}}</a>
                         <a href="{{url('purchases')}}" class="menu-item {{ ($segment1 == 'purchases' && $segment2 == '') ? 'active' : '' }}">{{ __('List Purchases')}}</a>
                     </div>
-                </div>
+                </div> --}}
                 <div class="nav-item {{ ($segment1 == 'suppliers' || $segment1 == 'customers') ? 'active open' : '' }} has-sub">
                     <a href="#"><i class="ik ik-users"></i><span>{{ __('People')}}</span></a>
                     <div class="submenu-content">
@@ -61,7 +61,7 @@
 
                 <!-- end inventory pages -->
 
-                
+
         </div>
     </div>
 </div>
