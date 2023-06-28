@@ -48,7 +48,7 @@
                     <div class="navbar-brand">
                         <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5"
                                 href="/"><img src="{{ asset('assets/image/logo.png') }}"
-                                    style="width:150px;height:100px;object-fit:contain;"></a></span>
+                                    style="width:150px;height:80px;object-fit:contain;"></a></span>
                     </div>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
                         data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
