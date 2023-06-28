@@ -2,8 +2,8 @@
 <div class="container">
     <div class="row mbr-white">
         <div class="col-12 col-md-3">
-            <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-7">
-                <strong>AmethiTech</strong>
+            <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-7 fs-4">
+                <strong style="font-family:'Times New Roman', Times, serif;">AmethiTech</strong>
             </h5>
             <div class="social-row display-7">
                   <div class="social-row display-7">
@@ -31,10 +31,10 @@
             </div>
         </div>
         <div class="col-12 col-md-3 mt-2">
-            <h2 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
-                <strong>Courses</strong>
+            <h2 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7 fs-4">
+                <strong style="font-family:'Times New Roman', Times, serif;">Courses</strong>
             </h2>
-            <ul class="list mbr-fonts-style display-4">
+            <ul class="list mbr-fonts-style display-4 fs-4" style="font-family:'Times New Roman', Times, serif;">
                 <a href="{{url('frontend')}}"><li class="mbr-text item-wrap mt-2">Frontend Developer</li></a>
                 <a href="{{url('backend')}}"><li class="mbr-text item-wrap mt-2">Backend Developer</li></a>
                 <a href="{{url('fullstack')}}"><li class="mbr-text item-wrap mt-2">Fullstack Web Developer</li></a>
@@ -42,10 +42,10 @@
             </ul>
         </div>
         <div class="col-12 col-md-3">
-            <h2 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
-                <strong>Our Services</strong>
+            <h2 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7 fs-4">
+                <strong style="font-family:'Times New Roman', Times, serif;">Our Services</strong>
             </h2>
-            <ul class="list mbr-fonts-style display-4">
+            <ul class="list mbr-fonts-style display-4 fs-4" style="font-family:'Times New Roman', Times, serif;">
                     <a href="{{url('new-website')}}"><li class="mbr-text item-wrap mt-2">
                     New Website Creation</li></a>
                 <a href="{{url('e-commerce')}}"><li class="mbr-text item-wrap mt-2">
@@ -57,27 +57,27 @@
             </ul>
         </div>
       <div class="col-12 col-md-3">
-        <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
-            <strong>Contact</strong>
+        <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7 fs-4">
+            <strong style="font-family:'Times New Roman', Times, serif;">Contact</strong>
         </h5>
         <div class="contact-info">
             <div class="contact-item d-flex align-items-center" >
                     <i class="fa-regular fa-envelope fa-fade text-white"></i></i>
                 <div class="contact-details ms-3">
-                    <p class="mb-0">vikramsing8@gmail.com</p>
+                    <p class="mb-0 fs-4" style="font-family:'Times New Roman', Times, serif;">vikramsing8@gmail.com</p>
                 </div>
             </div>
             <div class="contact-item d-flex align-items-center mt-2" >
                     <i class="fa-solid fa-phone-volume fa-fade"></i>
                 <div class="contact-details ms-3">
-                    <p class="mb-0">+91-7755897867</p>
-                    <p class="mb-0">+91-7217645059</p>
+                    <p class="mb-0 fs-4" style="font-family:'Times New Roman', Times, serif;">+91-7755897867</p>
+                    <p class="mb-0 fs-4" style="font-family:'Times New Roman', Times, serif;">+91-7217645059</p>
                 </div>
             </div>
             <div class="contact-item d-flex align-items-center mt-2" >
                     <i class="fa-regular fa-building fa-fade"></i>
                 <div class="contact-details ms-3">
-                    <p class="mb-0">Amethi, UP, India</p>
+                    <p class="mb-0 fs-4" style="font-family:'Times New Roman', Times, serif;">Amethi, UP, India</p>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
     </div>
     <div class="row mbr-white">
         <div class="col-12 mt-4">
-            <p class="mbr-text mb-0 mbr-fonts-style copyright align-center display-4">
+            <p class="mbr-text mb-0 mbr-fonts-style copyright align-center display-4 fs-4" style="font-family:'Times New Roman', Times, serif;">
                 © Copyright {{ date('Y') }} AmethiTech- All Rights Reserved
             </p>
         </div>

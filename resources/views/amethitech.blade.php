@@ -6,7 +6,7 @@
         <div class="container fs-4" id="services" style="font-family: 'Times New Roman', Times, serif">
             <div class="row">
                 <div class="col-12 pb-5 col-lg-9">
-                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2" style="font-family:'Times New Roman', Times, serif">
                         <strong>AmethiTech</strong>
                     </h3>
                 </div>
@@ -15,7 +15,7 @@
                 <div class="card col-12 col-md-12 col-lg-12">
                     <div class="card-wrapper">
                         <div class="align-left">
-                            <p class="card-text display-4" style="line-height:20px">Welcome to Amethitech, where we bring your digital dreams to life. As a leading web
+                            <p class="card-text display-4 fs-4" style="line-height:20px;font-family:'Times New Roman', Times, serif">Welcome to Amethitech, where we bring your digital dreams to life. As a leading web
                             development company, we are passionate about helping businesses establish a strong online presence and achieve
                              their goals through cutting-edge technology and innovative design.</p>
                             <p class="card-text mbr-fonts-style display-4" style="line-height:20px">
@@ -85,9 +85,9 @@
                                     <h1>Exceptional Support:  </h1>
                                 </b><br>  We are committed to building long-term relationships with our clients. Our dedicated support team is always ready to assist you, even after the project is completed, ensuring that your website continues to perform at its best.
                             </p>
-                            <h1 class="text-center">Unlock Your Online Potential </h1>
+                            <h1 class="text-center" style="font-family: 'Times New Roman', Times, serif">Unlock Your Online Potential </h1>
                             <hr>
-                            <p class="card-text mbr-fonts-style display-4" style="line-height:20px">
+                            <p class="card-text mbr-fonts-style display-4 fs-4" style="font-family:'Times New Roman', Times, serif;line-height:20px">
                                <br>  Discover how Amethitech can help your business thrive in the digital landscape. Contact us today to discuss your web development needs and unlock your online potential.
 
                         </div>

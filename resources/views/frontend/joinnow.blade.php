@@ -11,7 +11,7 @@
                 <div class="card text-black" style="border-radius: 35px;" style="background-color: #eee;">
                     <div class="card-body p-md-5">
                         <div class="row justify-content-center">
-                            <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1">
+                            <div class="col-md-10 col-lg-6 col-xl-5 order-2 order-lg-1" style="font-family: 'Times New Roman', Times, serif">
                                 @if(Session::get('success'))
                                         <div class="alert alert-success">
                                             {{session::get('success')}}

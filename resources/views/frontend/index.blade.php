@@ -13,7 +13,7 @@
                             <a href="#features06-b">
                                 <div class="subtitle-wrap">
                                     <span class=""><i class="fa-solid fa-code"></i></span>
-                                    <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7">
+                                    <h2 class="mbr-section-subtitle mbr-fonts-style m-0 p-0 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                         Contact Us
                                     </h2>
                                     <span class="mbr-iconfont fs-25 "><i class="fa-solid fa-arrow-right fa-fade"></i></span>
@@ -21,7 +21,7 @@
                             </a>
                         </div>
 
-                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-1">
+                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-1" style="font-family:'Times New Roman', Times, serif;font-size:50px">
                             <strong>Web Development </strong>
                         </h1>
                         <p class="mbr-text mbr-fonts-style display-7 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -29,7 +29,7 @@
                             to delivering exceptional solutions for businesses.
                         </p>
                         <div class="mbr-section-btn mt-4">
-                            <a class="btn btn-secondary-outline display-4" href="{{url('amethi-tech')}}">Read more</a>
+                            <a class="btn btn-secondary-outline display-4 fs-4" style="font-family:'Times New Roman', Times, serif;" href="{{url('amethi-tech')}}">Read more</a>
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                             <div class="iconfont-wrapper">
                                 <span class="mbr-iconfont "><i class="fa-solid fa-code fa-fade"></i></span>
                             </div>
-                            <h5 class="card-title mbr-fonts-style pb-3 display-7">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>Optimized code</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -65,7 +65,7 @@
                             <div class="iconfont-wrapper">
                                 <span class="mbr-iconfont"><i class="fa-sharp fa-solid fa-computer fa-fade"></i></span>
                             </div>
-                            <h5 class="card-title mbr-fonts-style pb-3 display-7">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>Best solutions</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -81,7 +81,7 @@
                                 <span class="mbr-iconfont "><i
                                         class="fa-sharp fa-solid fa-hourglass-start fa-fade"></i></span>
                             </div>
-                            <h5 class="card-title mbr-fonts-style pb-3 display-7">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>Time saving</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -100,8 +100,8 @@
                 <div class="col-12 col-md-12 col-lg">
                     <div class="text-wrapper align-left md-pb">
                         <div class="icon-wrap d-flex mb-5">
-                            <div class="icon-wrap d-flex mb-5">
-                                <a href="#list01-a" class='text-center text-dark '><span class="mbr-iconfont mx-4 ml-3"><i
+                            <div class="icon-wrap d-flex mb-5 fs-5" style="font-family:'Times New Roman', Times, serif;">
+                                <a href="#list01-a" class='text-center text-dark'><span class="mbr-iconfont mx-4 ml-3"><i
                                             class="fa-solid fa-code fa-fade "></i></span> Course</a>
                                 <a href="#features06-b" class='text-center text-dark'><span class="mbr-iconfont mx-3"><i
                                             class="fa-solid fa-phone fa-fade"></i></span> Contact</a>
@@ -115,12 +115,12 @@
                         </div>
 
                         <div class="subtitle-wrap">
-                            <h2 class="mbr-section-subtitle mbr-fonts-style mb-4 display-7">
+                            <h2 class="mbr-section-subtitle mbr-fonts-style mb-4 display-7 fs-1" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>About</strong>
                             </h2>
                         </div>
 
-                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
+                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5 fs-4" style="font-family:'Times New Roman', Times, serif;">
                             <strong>Web Development </strong>
                         </h1>
                         <p class="mbr-text mbr-fonts-style mb-4 display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
@@ -133,7 +133,7 @@
                                 <span class="mbr-linkiconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                                 <p class="mbr-link mbr-fonts-style m-0 display-4">
                                     <strong>
-                                        <a href="{{url('amethi-tech')}}" class="text-black">Read More Info</a></strong>
+                                        <a href="{{url('amethi-tech')}}" class="text-black fs-5" style="font-family:'Times New Roman', Times, serif;">Read More Info</a></strong>
                                 </p>
                             </div>
 
@@ -141,7 +141,7 @@
                                 <span class="mbr-linkiconfont"><i class="fa-solid fa-arrow-right fa-fade"></i></span>
                                 <p class="mbr-link mbr-fonts-style m-0 display-4">
                                     <strong>
-                                        <a href="{{url('/join-now')}}" class="text-black">Get Started</a></strong>
+                                        <a href="{{url('/join-now')}}" class="text-black fs-5" style="font-family:'Times New Roman', Times, serif;">Get Started</a></strong>
                                 </p>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
         <div class="container" id="services">
             <div class="row">
                 <div class="col-12 pb-5 col-lg-9">
-                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2" style="font-family:'Times New Roman', Times, serif;font-size:60px">
                         <strong>Our Services</strong>
                     </h3>
                 </div>
@@ -170,7 +170,7 @@
                             <span class="mbr-iconfont "><i class="fa-solid fa-globe fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
-                            <h5 class="card-title mbr-fonts-style pb-3 display-5">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-5" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>New Website Creation</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
@@ -179,7 +179,7 @@
                                 with their target audience.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="{{ url('new-website') }}">Get
+                                <a class="btn btn-primary display-4" href="{{ url('new-website') }}" style="font-family:'Times New Roman', Times, serif;">Get
                                     Started</a>
                             </div>
                         </div>
@@ -191,7 +191,7 @@
                             <span class="mbr-iconfont "><i class="fa-solid fa-dumpster fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
-                            <h5 class="card-title mbr-fonts-style pb-3 display-5">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-5" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>E-commerce Solution</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
@@ -200,7 +200,7 @@
                                 shopping carts, and order management systems.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="{{ url('e-commerce') }}">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('e-commerce') }}" style="font-family:'Times New Roman', Times, serif;">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
                             <span class="mbr-iconfont"><i class="fa-solid fa-school-circle-check fa-fade""></i></span>
                         </div>
                         <div class="card-box align-left">
-                            <h5 class="card-title mbr-fonts-style pb-3 display-5">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-5" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>School Website Development</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
@@ -221,7 +221,7 @@
                                 and facilitate communication between students, parents, and staff.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="{{ url('school') }}">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('school') }}" style="font-family:'Times New Roman', Times, serif;">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -232,7 +232,7 @@
                             <span class="mbr-iconfont"><i class="fa-solid fa-sliders fa-fade"></i></span>
                         </div>
                         <div class="card-box align-left">
-                            <h5 class="card-title mbr-fonts-style pb-3 display-5">
+                            <h5 class="card-title mbr-fonts-style pb-3 display-5" style="font-family:'Times New Roman', Times, serif;">
                                 <strong>Website Maintenance and Support</strong>
                             </h5>
                             <p class="card-text mbr-fonts-style display-4 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
@@ -241,7 +241,7 @@
                                 websites remain secure, up-to-date, and running smoothly.
                             </p>
                             <div class="mbr-section-btn mt-2">
-                                <a class="btn btn-primary display-4" href="{{ url('web-maintaine') }}">Get Started</a>
+                                <a class="btn btn-primary display-4" href="{{ url('web-maintaine') }}" style="font-family:'Times New Roman', Times, serif;">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -257,7 +257,7 @@
                     <div class="text-wrapper pb-3 align-left">
                         <div class="subtitle-wrap"></div>
 
-                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2">
+                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-2" style="font-family:'Times New Roman', Times, serif;font-size:60px">
                             <strong>Why Choose AmethiTech</strong>
                         </h1>
                         <p class="mbr-text mbr-fonts-style display-7 fs-4" style="line-height:1.8rem; font-family:'Times New Roman', Times, serif;">
@@ -424,7 +424,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 pb-5">
-                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                    <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2" style="font-family:'Times New Roman', Times, serif;font-size:60px">
                         <strong>Our Course</strong>
                     </h3>
                 </div>
@@ -435,7 +435,7 @@
                         <a href="{{ url('frontend') }}" style="color:black" onmouseover="this.style.color='white';"
                             onmouseout="this.style.color='black';">
                             <div class="text-wrap align-left">
-                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                     <strong>Frontend Developer</strong>
                                 </h5>
                                 <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -456,7 +456,7 @@
                         <a href="{{ url('backend') }}" style="color:black" onmouseover="this.style.color='white';"
                             onmouseout="this.style.color='black';">
                             <div class="text-wrap align-left">
-                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                     <strong>Backend Developer</strong>
                                 </h5>
                                 <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4"
@@ -478,7 +478,7 @@
                         <a href="{{ url('fullstack') }}" style="color:black" onmouseover="this.style.color='white';"
                             onmouseout="this.style.color='black';">
                             <div class="text-wrap align-left">
-                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                     <strong>Fullstack Web Developer</strong>
                                 </h5>
                                 <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -501,7 +501,7 @@
                             onmouseout="this.style.color='black';">
 
                             <div class="text-wrap align-left">
-                                <h5 class="card-title mbr-fonts-style m-0 display-7">
+                                <h5 class="card-title mbr-fonts-style m-0 display-7 fs-4" style="font-family:'Times New Roman', Times, serif;">
                                     <strong>Laravel Developer</strong>
                                 </h5>
                                 <p class="card-text mbr-fonts-style pt-1 m-0 display-4 fs-4" style="line-height: 1.6rem; font-family:'Times New Roman', Times, serif">
@@ -668,7 +668,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 card col-md-12 col-lg-10">
                     <div class="text-wrapper align-left md-pb">
-                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5">
+                        <h1 class="mbr-section-title mbr-fonts-style mb-4 display-5 fs-1" style="font-family:'Times New Roman', Times, serif;">
                             <strong><a href="" class="text-success">AmethiTech.</a>
                             </strong>
                         </h1>
@@ -682,7 +682,7 @@
                             at a time."
                         </p>
                         <div class="img-wrap">
-                            <img src="{{ asset('assets/image/4.png') }}" alt="Mobirise Website Builder" />
+                            <img src="{{ asset('assets/image/logo.png') }}" alt="Amethitech logo" style="width:200px;height:150px;object-fit:contain;" />
                         </div>
                     </div>
                 </div>
@@ -700,7 +700,7 @@
                         <div class="card col-12 col-md-12 col-lg-12">
                             <div class="card-big">
                                 <form>
-                                    <div class="row g-3">
+                                    <div class="row g-3 fs-4" style="font-family:'Times New Roman', Times, serif">
                                         <div class="col-md-6">
                                             <div class="form-floating">
                                                 <input type="text" class="form-control" id="name" name="name"
@@ -730,7 +730,7 @@
                                             </div>
                                         </div>
                                         <div class="col-12">
-                                            <button class="btn btn-primary w-100 py-3" name="submit" type="submit">Send
+                                            <button class="btn btn-primary w-100 py-3 fs-4" name="submit" type="submit">Send
                                                 Message</button>
                                         </div>
                                     </div>
@@ -743,7 +743,7 @@
                     <div class="row">
                         <div class="card col-12 col-md-12 col-lg-12">
                             <div class="card-wrapper">
-                                <div class="card-box align-left">
+                                <div class="card-box align-left fs-5" style="font-family: 'Times New Roman', Times, serif">
                                     <h5>Get In Touch</h5>
                                     <div class="d-flex align-items-right ml-5">
                                         <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary"
@@ -795,5 +795,5 @@
         </div>
     </section>
     <!-- Contact End -->
-    
+
 @endsection
